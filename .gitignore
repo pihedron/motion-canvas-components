@@ -1,0 +1,16 @@
+node_modules
+output
+dist
+
+.idx
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+src/scenes
